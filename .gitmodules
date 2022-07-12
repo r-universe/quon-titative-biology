@@ -3,8 +3,3 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "scAlign"]
-	path = scAlign
-	url = https://github.com/quon-titative-biology/scalign
-	shallow = true
-	registered = true
